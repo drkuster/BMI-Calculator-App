@@ -1,7 +1,7 @@
 # BMI-Calculator-App
 
 <p align="center">
-<img src="https://github.com/drkuster/Split-It-App/blob/master/BMI%20Calculator%20Screenshots/SplitIt.png?raw=true">
+<img src="https://github.com/drkuster/Split-It-App/blob/master/BMI%20Calculator%20Screenshots/BMI-Calculator.png?raw=true">
 </p>
 
 <p align="center">
